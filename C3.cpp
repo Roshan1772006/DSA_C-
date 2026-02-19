@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int x;
+    cout<<"Enter a number: ";
+    cin>>x;
+    
+     int y;
+     cout<<"Enter a number: ";
+     cin>>y;
+     cout<<"The element is your enter : "<<y<<" & "<<x;
+}
